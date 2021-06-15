@@ -1,4 +1,4 @@
-## Front-end Developer
+## Front-end Learner
 
 - Languages: JavaScript, Python .. etc
 - Frameworks: React 
